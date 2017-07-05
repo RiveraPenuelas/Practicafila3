@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>Mayra Gabina Olague Lopez</title>
+	<title>Practica fila 3</title>
 	<link rel="stylesheet" href="{{asset("css/bootstrap.css")}}">
 	<script src="{{asset("js/jquery-3.2.1.js")}}"></script>
 </head>
